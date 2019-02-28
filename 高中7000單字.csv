@@ -11,7 +11,7 @@ actor/actress,n.,1,演員
 add,v.,1,加
 address,n./v.,1,地址
 adult,n./adj.,1,成人
-afraid,Adj.,1,害怕
+afraid,adj.,1,害怕
 after,prep./conj./adv.,1,後
 afternoon,n.,1,下午
 again,adv.,1,再次
@@ -1179,7 +1179,7 @@ boss,n./v.,2,
 bother,v./n.,2,
 bottle,n./v.,2,
 bow(1),n./v.,2,
-bow(2),v./n,2,
+bow(2),v./n.,2,
 bowling,n.,2,
 brain,n.,2,
 branch,n./v.,2,
